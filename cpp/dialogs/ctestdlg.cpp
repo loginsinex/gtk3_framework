@@ -8,7 +8,7 @@ CTestDlg::CTestDlg() :
     m_cEdit(5, TEXT("Something right!!!")),
     m_cSpin(6, 0, 100),
     m_cCombo(7),
-    m_cLink(8, TEXT("https://hsup.nic.ru/"), TEXT("HSUP")),
+    m_cLink(8, TEXT("https://github.com/"), TEXT("GITHUB")),
     m_cList(9,3),
     m_cBtn3(10, TEXT("Dlg"))
 {
